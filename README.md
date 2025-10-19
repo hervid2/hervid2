@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./animated_banner.gif" alt="Banner" width="100%"/>
+</div>
 # 👋 Hi there! I'm Hernán David Cardona | ¡Hola! Soy Hernán David Cardona
 
 <div align="center">
@@ -157,8 +160,4 @@
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
   **Thanks for visiting! | ¡Gracias por visitar!** 💙
-</div>
-
-<div align="center">
-  <img src="./banner.gif" alt="Banner" width="100%"/>
 </div>
