@@ -152,17 +152,14 @@
 
 **Español:** Estoy buscando activamente oportunidades para contribuir a proyectos innovadores y crecer como desarrollador. Ya sea que tengas una idea de proyecto, quieras colaborar o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/hern%C3%A1n-david-cardona-becerra/?locale=en_US))
-[![Email](https://img.shields.io/badge/-Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hern%C3%A1n-david-cardona-becerra/?locale=en_US)
+[![Email](https://img.shields.io/badge/-Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hdcardonab@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Visit_my_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hervid2&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
   ### ⭐ From [hervid2](https://github.com/hervid2)
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
