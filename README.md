@@ -159,4 +159,6 @@
   **Thanks for visiting! | ¡Gracias por visitar!** 💙
 </div>
 
-![Snake animation](https://github.com/hervid2/hervid2/blob/output/github-snake.svg)
+<div align="center">
+  <img src="./banner.gif" alt="Banner" width="100%"/>
+</div>
