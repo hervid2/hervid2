@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./animated_banner.gif" alt="Banner" width="100%"/>
+  <img src="./animated_banner.gif" alt="Banner" style="width: 100%; max-width: 1200px;"/>
 </div>
 # 👋 Hi there! I'm Hernán David Cardona | ¡Hola! Soy Hernán David Cardona
 
