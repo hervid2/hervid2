@@ -1,6 +1,9 @@
 <div align="center">
   <img src="./banner_final.gif" alt="Banner" style="width: 100%; max-width: 1200px;"/>
 </div>
+
+---
+
 # 👋 Hi there! I'm Hernán David Cardona | ¡Hola! Soy Hernán David Cardona
 
 <div align="center">
