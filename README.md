@@ -28,12 +28,12 @@
 **Español:**
 > Soy un desarrollador Full Stack apasionado enfocado en construir aplicaciones web modernas y escalables. Durante los últimos dos años, he estado inmerso en el aprendizaje y desarrollo de proyectos que demuestran mis habilidades tanto en tecnologías frontend como backend. Me encanta resolver problemas a través del código y constantemente estoy explorando nuevas tecnologías para mejorar mi oficio.
 
-- 🔭 Currently working on | Trabajando actualmente en: **Building my Portfolio & Full Stack Projects**
-- 🌱 Learning | Aprendiendo: **AI Integration in Workflows, Software Architecture, Design Patterns & Spring Boot**
-- 👯 Looking to collaborate on | Buscando colaborar en: **Open Source Projects & Innovative Web Applications**
-- 💬 Ask me about | Pregúntame sobre: **JavaScript, React, Node.js, Python, Java & Web Development**
-- 📍 Location | Ubicación: **Floridablanca, Santander, Colombia**
-- ⚡ Fun fact | Dato curioso: **I've built two complete restaurant applications from scratch!**
+- 🔭 Currently working on | Trabajando actualmente en: **working as freelance by building an e-commerce called "Slicing Edge"**
+- 🌱 Learning | Aprendiendo: **Software engineering career at Politécnico Grancolombiano University located in Colombia**
+- 👯 Looking to collaborate on | Buscando colaborar en: **Open to Remote Full-Stack Opportunities in the U.S. & Canada**
+- 💬 Ask me about | Pregúntame sobre: **Typescript, React, Node.js, Python, Java, software architecture, SOLID principles, Spec-driven development**
+- 📍 Location | Ubicación: **Girón, Santander, Colombia**
+- ⚡ Fun fact | Dato curioso: **I love to learning continuously about brand new ways to work better and efficiently!**
 
 ---
 
@@ -94,13 +94,13 @@
 
 ---
 
-### 🚀 [Portfolio Website](YOUR_PORTFOLIO_URL)
-**English:** Personal portfolio showcasing my projects, skills, and journey as a Full Stack Developer. Built with React and modern web technologies.
+### 🚀 [Portfolio Website](https://portfolio-hernan-cardona.vercel.app/)
+**English:** Personal portfolio showcasing my projects, skills, and journey as a Full Stack Developer. Built with React, Nodejs, Typescript, tailwind,  managed by a MySQL database.
 
-**Español:** Portafolio personal que muestra mis proyectos, habilidades y trayectoria como desarrollador Full Stack. Construido con React y tecnologías web modernas.
+**Español:** Portafolio personal que muestra mis proyectos, habilidades y trayectoria como desarrollador Full Stack. Construido con React, Nodejs, Typescript, Tailwind, manejado por una base de datos MySQL.
 
 ![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20TailwindCSS%20%7C%20TypeScript-blue?style=flat-square)
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://sushi-burrito-final.vercel.app/#login)
 
 </div>
 
@@ -110,16 +110,16 @@
 
 **English:**
 - 🤖 Integrating AI into development workflows
-- 🏗️ Learning software architecture and design patterns
-- 🍃 Mastering Spring Boot for enterprise applications
-- 📚 Building a comprehensive portfolio
+- 🏗️ Studying software engineering at the Politecnico Grancolombiano university located in Colombia
+- 🍃 Mastering AI to better build and deploy web applications.
+- 📚 Building an e-commerce called "Slicing-edge"
 - 🌐 Contributing to open source projects
 
 **Español:**
 - 🤖 Integrando IA en flujos de trabajo de desarrollo
-- 🏗️ Aprendiendo arquitectura de software y patrones de diseño
-- 🍃 Dominando Spring Boot para aplicaciones empresariales
-- 📚 Construyendo un portafolio completo
+- 🏗️ Estudiando ingeniería de software en la universidad Politecnico Grancolombiano ubicada en Colombia
+- 🍃 Dominando IA para construir y desplegar mejores aplicaciones web.
+- 📚 Construyendo un comercio electrónico llamado "Slicing-edge"
 - 🌐 Contribuyendo a proyectos de código abierto
 
 ---
@@ -131,14 +131,14 @@
 🎨 **Attention to Detail**: Clean code and polished user interfaces are my priority  
 📖 **Fast Learner**: Continuously adapting to new technologies and best practices  
 🤝 **Team Player**: Open to feedback and eager to collaborate on exciting projects  
-🚀 **Self-Motivated**: Dedicated two years to self-learning and building real-world projects
+🚀 **Self-Motivated**: I've spent the last two and a half years training as a full stack developer and building real-world projects
 
 **Español:**
 ✨ **Solucionador de Problemas**: Abordo los desafíos con soluciones creativas y eficientes  
 🎨 **Atención al Detalle**: El código limpio y las interfaces pulidas son mi prioridad  
 📖 **Aprendizaje Rápido**: Adaptándome continuamente a nuevas tecnologías y mejores prácticas  
 🤝 **Trabajo en Equipo**: Abierto a retroalimentación y ansioso por colaborar en proyectos emocionantes  
-🚀 **Auto-Motivado**: Dediqué dos años al auto-aprendizaje y a construir proyectos del mundo real
+🚀 **Auto-Motivado**: Me dediqué los dos últimos años y medio a la formación como desarrollador full stack y a construir proyectos del mundo real
 
 ---
 
@@ -146,13 +146,13 @@
 
 <div align="center">
   
-**English:** I'm actively looking for opportunities to contribute to innovative projects and grow as a developer. Whether you have a project idea, want to collaborate, or just want to chat about tech, feel free to reach out!
+**English:** Open to Remote Full-Stack Opportunities in the U.S. & Canada. Let’s build scalable, high-quality software together. Feel free to reach out, and I’ll respond as soon as possible!
 
-**Español:** Estoy buscando activamente oportunidades para contribuir a proyectos innovadores y crecer como desarrollador. Ya sea que tengas una idea de proyecto, quieras colaborar o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
+**Español:** Abierto a oportunidades remotas como Full-Stack Developer en Estados Unidos y Canadá. Construyamos juntos software escalable y de alta calidad. ¡Envíame un mensaje y te responderé pronto!
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hern%C3%A1n-david-cardona-becerra/?locale=en_US)
 [![Email](https://img.shields.io/badge/-Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hdcardonab@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Visit_my_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/-Visit_my_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-hernan-cardona.vercel.app/)
 
 </div>
 
