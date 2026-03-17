@@ -78,11 +78,11 @@
 
 <div align="center">
 
-### 🔪 [Slicing Edge]() *(In Progress)*
+### 🔪 [Slicing Edge]() *(In Progress)*(https://github.com/hervid2/Slicing-Edge-api)(https://github.com/hervid2/Slicing-edge-frontend)
 A full-featured e-commerce platform specialized in premium kitchen knives. Built with a modern full-stack architecture, it includes a product catalog, user authentication, shopping cart, checkout flow, and an admin dashboard. Designed with performance and scalability as first-class priorities from day one.
 
 ![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20TailwindCSS%20%7C%20MySQL-blue?style=flat-square)
-[![Repo](https://img.shields.io/badge/-Repository_(Coming_Soon)-181717?style=flat-square&logo=github&logoColor=white)]()
+[![Repo](https://img.shields.io/badge/-Repository_(Coming_Soon)-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hervid2/Slicing-Edge-api)(https://github.com/hervid2/Slicing-edge-frontend)
 
 ---
 
@@ -106,6 +106,7 @@ A Java-based restaurant management system implementing robust backend architectu
 Personal portfolio showcasing my projects, skills, and journey as a Full Stack Developer. Built with a full-stack architecture including a REST API, persistent database layer, and a responsive React frontend.
 
 ![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20TailwindCSS%20%7C%20MySQL-blue?style=flat-square)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hervid2/Portfolio)
 [![Live Demo](https://img.shields.io/badge/-Live_Demo-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-hernan-cardona.vercel.app/)
 
 </div>
