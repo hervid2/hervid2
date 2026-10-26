@@ -51,7 +51,7 @@ Migrated a Java desktop POS to a web SPA for a real restaurant: JWT auth with ro
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/-Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-[Repository](https://github.com/hervid2/sushiBurritoJS) · [Live demo](https://sushi-burrito-final.vercel.app/#login)
+[Repository](https://github.com/hervid2/SushiBurritoFinal) · [Live demo](https://sushi-burrito-final.vercel.app/#login)
 
 ### Sushi Burrito POS (Desktop) — Layered Java application
 Role-based desktop POS built on a layered, SOLID-oriented architecture (Swing → Service → Spring Data JPA → MySQL), 3NF schema, Flyway migrations and PDF invoices. Core logic tested with JUnit 5 and Mockito, and shipped as native installers (.msi / .dmg) with jpackage. Used daily for 6+ months before the web migration.
